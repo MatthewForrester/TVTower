@@ -1,7 +1,8 @@
 Manual for Developer Version
 ============================
 
-Autor: Själe, translated by Matthew Forrester
+Author: Själe
+Translator: Matthew Forrester
 
 Foreword
 
@@ -82,10 +83,10 @@ https://www.youtube.com/watch?v=LaXdh_o3HA4
 
 For those who like to read the full story, or who have used up their data allowance, it will be briefly described below.
 
-Programme Planning
+Programme Schedule
 ------------------
 
-To get to the Programme Planner, you must first enter the player's office. Left-click on the door or select it in the elevator plan and your in-game character will move there. In the office, there's a computer. Left-clicking on this will present you with the Programme Planner.
+To get to the Programme Schedule, you must first enter the player's office. Left-click on the door or select it in the elevator plan and your in-game character will move there. In the office, there's a computer. Left-clicking on this will present you with the Programme Schedule.
 
 You will see the furst day. At the beginning of the game the Opening Ceremony and three advertisements are already in place. In addition, an advertisement has been scheduled as an infomercial. This is only the case at the beginning of the game and should give you enough time to explore the game in peace.
 
@@ -99,25 +100,27 @@ If you want to place your (even already broadcast) programmes/advertisements in 
 
 If you want to place individual episodes of a series in sequence, press the "Shift"-key and left-click on it. As long as the "Shift"-key is pressed, then every left-click will place an episode.
 
-Legt Ihr eine Werbung auf einem Sendungsplatz ab, so wird daraus eine Dauerwerbesendung. Diese spielt pro Zuschauer eine bestimmte Geldmenge ein. Vermindert aber auch Euer Image bei den Zuschauern.
+If you place an advertisement in a schedule slot, then it becomes an infomercial. These receive a certain amount of money per viewer. But they also damage your image with the viewers.
 
-Legt Ihr hingegen eine Sendung auf einen Werbeplatz, so entsteht ein Trailer für die entsprechende Sendung. Dieser Trailer sorgt dafür, daß mehr Zuschauer die Sendung sehen. Allerdings sind die zusätzlichen Zuschauer davon abhängig, wieviele die Sendung vor dem Trailer gesehen haben. Mehrfaches Senden verstärkt diesen Effekt. Allerdings nur bis zu einer Obergrenze. Jeder weitere Trailer bringt dann keinen zusätzlichen Zuschauergewinn.
+By contrast, if you set a programme in an advertising slot, then a trailer for the appropriate programme is created. This trailer ensures that more viewers will watch the programme. However, the number of additional viewers depends on how many viewers saw the programme before the trailer. Multiple broadcasts strengthen this effect, though only up to an upper limit. Every further trailer then draws no additional viewership.
 
-Wenn Ihr das Programm des nächsten, übernächsten, überübernächsten oder eines gar noch weiter in der Zukunft liegenden Tages sehen oder verändern wollt, dann nutzt die kleinen Pfeile rechts oben. Freilich könnt Ihr dort auch wieder zurückblättern.
+If youwant to see or change the schedule for the following, next-but-one or next-but-two day, or even further in the future, then use the the little arrow in the top right. Obviously you can also go back again.
 
-Vorhandene Werbung und Programme sind durch Linksklick auf die jeweiligen Menüpunkte rechts ersichtlich. Hier gibt’s wieder Tooltips, wenn Ihr den Mauszeiger über die Sendung/Werbung führt. Mit Linksklick hebt Ihr die Sendung an. Mit Linksklick legt Ihr sie wieder ab. „Shift“ und Linksklick legt die Sendung so lange ab, wie Ihr die „Shift“-Taste gedrückt haltet. Per Rechtsklick erhaltet Ihr gegebenenfalls wieder freie Hand.
+Available advertisements and programmes can be seen in the respective menu options on the right. There are also more tooltips here when you move the mouse pointer over the programme/advertisement. Left-click to drag the programmes. Left-click to put them down again. "Shift" and left-click retains the programme as long as you have the "Shift"-key pressed. If necessary, a right-click will give you a free hand again.
 
-Ebenfalls rechts neben der Programmplanung findet Ihr die Punkte „Finanzen“, „Statistiken“ und „Erfolge“. Linksklick darauf, lädt entsprechende Bildschirme, die Euch detalliertere Informationen ausweisen.
+You will also find the "Finance", "Statistics" and "Achievements" items on the right of the Programme Schedule. Left-clicking on them opens the corresponding screens, which will show you more detailed information.
 
-Archiv
-------
+Archive
+-------
 
-Im Archiv trefft Ihr den Archivar. Ihn braucht Ihr, wenn Ihr Filme aus Eurem Besitz verkaufen wollt. Klickt auf den Archivar und Ihr bekommt eine Liste der Genres angezeigt. Besitzt Ihr Filme eines bestimmten Genres, so ist dieses schwarz eingefärbt, jeweils daneben grüne Striche, die auf die Anzahl von Filmen unter diesem Genre hinweisen. Klickt also auf ein Genre und wählt den Film aus, den Ihr zum Filmverleih schleppen wollt, klickt auf diesen und legt ihn im Koffer ab.
+In the archive you meet the archivist. You needs him, if you want to sell the film that you own. Click on the archivist and you will be shown a list of the genres. If you own films of a certain genre, then it is coloured black, with green lines next to it, which indicate the number of films under ths genre. So click on a genre and select the film that you want to move to the film rental shop, click on it and place it in the suitcase.
 
-Aber Vorsicht! Legt Ihr einen Film im Koffer ab, der derzeit in der Programmplanung gesetzt ist und verlaßt damit den Raum, so wird dieser aus der Programmplanung gelöscht. Ihr müßt später diese Lücke wieder füllen.
+But beware! If you put a film which is currently set in the Programme Schedule into the suitcase and leave the room with it, then it will be deleted from the Programme Schedule. So you will have to fill that gap again later.
 
-Filmagentur
------------
+Movie Agency
+------------
+
+This is used for the acquisition and sale of films. On the left you can see the agent behind his desk. On the right there's a bookcase. In the centre is your suitcase. If you have come straight from the archive, it may contain the films that you've selected to sell. If you want to sell them, left-click on them and click on the movie agent with the film. Then the film is gone. But whether it will turn up in the bookcase again is uncertain.
 
 Sie dient zum Erwerb und Verkauf von Filmen. Links seht Ihr den Agenten hinter seinem Schreibtisch. Rechts ein Regal. In der Mitte ist Euer Koffer. Seid Ihr gerade aus dem Archiv gekommen, befinden sich eventuell darin die von Euch zum Verkauf ausgesuchten Filme. Wenn Ihr sie verkaufen wollt, klickt mit links darauf, und klickt mitsamt dem Film auf den Filmagenten. Dann ist der Film weg. Ober er je wieder im Regal auftaucht, ist ungewiß.
 
@@ -125,7 +128,7 @@ Zum Erwerb gibt es zwei Möglichkeiten. Einmal die Filme im Regal. Fahrt mit dem
 
 Wie die Filmeigenschaften zu bewerten sind, beschrieb STARSCrazy:
 
-„Tempo: Wie interessant finden Normalos den Film (entspricht  Zuschauer-Ratings)
+?�Tempo: Wie interessant finden Normalos den Film (entspricht  Zuschauer-Ratings)
 
 Kritik: Wie interessant finden Kritiker den Film (entspricht  Kritiker-Ratings)
 
@@ -137,7 +140,7 @@ Je nach Genre sind aber manche Werte wichtiger als andere:
 
 * Kritik ist vor allem wichtig bei Kultur, Live, Musik, Show.
 * Tempo ist wichtig bei Erotik, Sport, Klatsch, Bezahlfernsehen
-* Kinokasse ist wichtig bei Action, Sci-Fi, Fantasy, Komödie, Liebe“
+* Kinokasse ist wichtig bei Action, Sci-Fi, Fantasy, Komödie, Liebe??
 
 
 Klickt auf einen Film, bewegt ihn über den Koffer und klickt erneut, dann landet er im Koffer. Das stellt nur eine Vorauswahl dar. Zwar wird Euch das Geld sofort abgezogen, wenn Ihr aber wiederum auf den Film klickt und ihn zum Regal bewegt, dort wieder klickt, landet er im Regal und das Geld ist wieder auf Eurem Konto. Verlaßt Ihr aber den Raum mit dem Film im Koffer, dann landet der Film unweigerlich im Archiv und steht automatisch für Eure Sendeplanung zur Verfügung. Sollte der Koffer mal voller Filme sein, so verlaßt den Raum, betretet ihn wieder und Ihr habt genug Platz zum Weitershoppen. Ganz nebenbei: Die vorher durch Euren Einkauf geschaffenen Lücken wurden in der Zwischenzeit vom Agenten aufgefüllt.
@@ -147,7 +150,7 @@ Die zweite Möglichkeit hier Filme zu erwerben, besteht in der Auktion. Dazu kli
 Werbemakler
 -----------
 
-Das ist der gute Mann, der uns die Mäuse fängt. Nun eigentlich schwatzt er uns Sachen auf, die den Zuschauern den Film vermiesen oder Platz schaffen, um Chips zu holen. Kurz und gut: Hier gibt’s die Werbeblöcke, die stündlich gesendet dafür sorgen, daß wir Geld reinkriegen. Ihr seht auf dem Tisch und an der Wand Ordner stehen und rechts oben wieder einen Koffer. In diesem Koffer stehen normalerweise schon Ordner. Das sind die bereits abgeschlossenen Werbeverträge. Drei davon spendiert das Spiel gleich beim Spielstart. Daß die drei Ordner im Koffer stehen und nicht irgendwo im Archiv, soll Euch darauf hinweisen, daß der Platz im Koffer beschränkt ist. Ist der Koffer voll, so könnt Ihr keinen neuen Werbevertrag abschließen. Platz schaffen funktioniert nur, indem Ihr Werbung zu Ende sendet. Oder wenn sie nach der Frist verfällt, was jedoch eine Strafzahlung zur Folge hat.
+Das ist der gute Mann, der uns die Mäuse fängt. Nun eigentlich schwatzt er uns Sachen auf, die den Zuschauern den Film vermiesen oder Platz schaffen, um Chips zu holen. Kurz und gut: Hier gibt?�s die Werbeblöcke, die stündlich gesendet dafür sorgen, daß wir Geld reinkriegen. Ihr seht auf dem Tisch und an der Wand Ordner stehen und rechts oben wieder einen Koffer. In diesem Koffer stehen normalerweise schon Ordner. Das sind die bereits abgeschlossenen Werbeverträge. Drei davon spendiert das Spiel gleich beim Spielstart. Daß die drei Ordner im Koffer stehen und nicht irgendwo im Archiv, soll Euch darauf hinweisen, daß der Platz im Koffer beschränkt ist. Ist der Koffer voll, so könnt Ihr keinen neuen Werbevertrag abschließen. Platz schaffen funktioniert nur, indem Ihr Werbung zu Ende sendet. Oder wenn sie nach der Frist verfällt, was jedoch eine Strafzahlung zur Folge hat.
 
 Fahrt mit den Mauszeigern über die Ordner und ihr seht die werberelevanten Informationen. Die Prämie muß ich nicht weiter erläutern. Die Strafe wird fällig, wenn Ihr die erforderlichen Blöcke nicht in der angegebenen Zeit mit den geforderten Zuschauern sendet. Im Tooltip wird Euch übrigens auch angezeigt, wie oft die Werbung schon eingeplant bzw. gesendet wurde.
 
@@ -177,11 +180,11 @@ Senderkauf
 ----------
 Da sind wir freilich bei einem der strategisch wichtigsten Features. Nutze ich das Geld erstmal für den Senderausbau oder für bessere Filme? Zu finden ist das Menü für den Senderkauf per Linksklick auf die Landkarte ganz rechts am Rand.
 
-Wenn Ihr dann auf „Sendemast kaufen“ klickt, erscheint an der Maushand ein Sendemastsymbol, das Ihr über die Karte bewegen könnt. Dabei wird Euch angezeigt, wieviele Zuschauer Ihr an der jeweiligen Stelle erreichen könnt. Dazu wird auch immer ausgewiesen, wieviele neue Zuschauer Ihr im Einzugsbereich habt. Das wird wichtig, wenn in Ballungszentren mehrere Sendemasten stehen, die sich gegebenenfalls überschneiden könnten. Da zählt dann freilich jeder mögliche Zuschauer nur einmal. Nicht zu vergessen in der untersten Zeile der Information: Der zu erwartende Kaufpreis.
+Wenn Ihr dann auf ?�Sendemast kaufen?? klickt, erscheint an der Maushand ein Sendemastsymbol, das Ihr über die Karte bewegen könnt. Dabei wird Euch angezeigt, wieviele Zuschauer Ihr an der jeweiligen Stelle erreichen könnt. Dazu wird auch immer ausgewiesen, wieviele neue Zuschauer Ihr im Einzugsbereich habt. Das wird wichtig, wenn in Ballungszentren mehrere Sendemasten stehen, die sich gegebenenfalls überschneiden könnten. Da zählt dann freilich jeder mögliche Zuschauer nur einmal. Nicht zu vergessen in der untersten Zeile der Information: Der zu erwartende Kaufpreis.
 
-Habt Ihr eine passende Stelle für den Masten gefunden, fixiert ihn per Linksklick und bestätigt mit dem Button „Sendemast kaufen“. Wollt Ihr nach dem Platzieren doch lieber nochmal gucken, dann könnt Ihr den Sendemast per Rechtsklick wieder entfernen. Habt Ihr den Button „kaufen“ schon angeklickt, ist es dafür freilich zu spät. Ihr könntet jetzt den Sendemast wieder verkaufen. Wählt Ihn dazu in der Liste rechts unten aus. Und dann auf den Button „Sendemast verkaufen“. Gemeinerweise erhaltet Ihr weniger Geld zurück, als er gekostet hat.
+Habt Ihr eine passende Stelle für den Masten gefunden, fixiert ihn per Linksklick und bestätigt mit dem Button ?�Sendemast kaufen??. Wollt Ihr nach dem Platzieren doch lieber nochmal gucken, dann könnt Ihr den Sendemast per Rechtsklick wieder entfernen. Habt Ihr den Button ?�kaufen?? schon angeklickt, ist es dafür freilich zu spät. Ihr könntet jetzt den Sendemast wieder verkaufen. Wählt Ihn dazu in der Liste rechts unten aus. Und dann auf den Button ?�Sendemast verkaufen??. Gemeinerweise erhaltet Ihr weniger Geld zurück, als er gekostet hat.
 
-Die Menüpunkte am unteren Rand „Kabelnetzanbindung“ und „Satellitenanbindung“ geben den möglichen Zugriff auf vorhandene Kabelnetze und Satelliten an. Während die vorhandenen Satelliten aufgelistet werden, werden die verfügbaren Kabelnetze durch Überfahren der Landkarte angezeigt. Wenn Ihr die angegebenen Bedingungen erfüllt, könnt Ihr die Anbindungen mieten. Vorgesehen ist jeweils eine einjährige Vertragslaufzeit. Die Abdeckung von Kabel oder Satellit ist an die realen Daten angelehnt. Es ist also nur eine teilweise Abdeckung der Gebiete zu erwarten. Diese steigt jedoch im Laufe des Spiels.
+Die Menüpunkte am unteren Rand ?�Kabelnetzanbindung?? und ?�Satellitenanbindung?? geben den möglichen Zugriff auf vorhandene Kabelnetze und Satelliten an. Während die vorhandenen Satelliten aufgelistet werden, werden die verfügbaren Kabelnetze durch Überfahren der Landkarte angezeigt. Wenn Ihr die angegebenen Bedingungen erfüllt, könnt Ihr die Anbindungen mieten. Vorgesehen ist jeweils eine einjährige Vertragslaufzeit. Die Abdeckung von Kabel oder Satellit ist an die realen Daten angelehnt. Es ist also nur eine teilweise Abdeckung der Gebiete zu erwarten. Diese steigt jedoch im Laufe des Spiels.
 
 Für alle drei Sendearten wird die Zuschaltung der Reichweite zur nächsten vollen Stunde ermöglicht.
 
@@ -193,7 +196,7 @@ Hier könnt Ihr Drehbücher für die Eigenproduktion kaufen. Die stehen auf und 
 Studio
 ------
 
-Mit dem ausgewählten Drehbuch geht es ins Studio. Klickt dort auf das gewünschte Drehbuch im Koffer und legt es rechts auf dem Schränkchen ab. Links steht der Studioleiter. Linksklickt auf ihn und es erscheint ein Dialog, in dem Ihr eine Einkaufsliste fordern könnt. Diese erscheint nach Linksklick auf „ich brauche eine Einkaufsliste...“ mittig am unteren Rand. Die kann dann da hängen bleiben. Und ab geht's zum Supermarkt.
+Mit dem ausgewählten Drehbuch geht es ins Studio. Klickt dort auf das gewünschte Drehbuch im Koffer und legt es rechts auf dem Schränkchen ab. Links steht der Studioleiter. Linksklickt auf ihn und es erscheint ein Dialog, in dem Ihr eine Einkaufsliste fordern könnt. Diese erscheint nach Linksklick auf ?�ich brauche eine Einkaufsliste...?? mittig am unteren Rand. Die kann dann da hängen bleiben. Und ab geht's zum Supermarkt.
 
 Vom Supermarkt zurück, könnt Ihr einen Film mit vollständiger Einkaufsliste zur Produktion freigeben. Wählt dazu den gewünschten Film und klickt auf den Studioleiter.
 
@@ -270,7 +273,7 @@ Der rechte Bildschirm zeigt die jeweiligen Zielgruppen, die vom Programm bevorzu
 Chat und Cheaten
 ================
 
-Der InGame-Chat wird mit der „Enter“-Taste aufgerufen. Der Chat kann in der Entwicklerversion verschiedene Kommandos entgegennehmen. Der Befehl „/dev help“ listet die verfuegbaren Befehle auf. So würde zum Beispiel ein „/dev money 1 1000“ dem ersten Spieler 1000 Euro aufs Konto gutschreiben.
+Der InGame-Chat wird mit der ?�Enter??-Taste aufgerufen. Der Chat kann in der Entwicklerversion verschiedene Kommandos entgegennehmen. Der Befehl ??/dev help?? listet die verfuegbaren Befehle auf. So würde zum Beispiel ein ??/dev money 1 1000?? dem ersten Spieler 1000 Euro aufs Konto gutschreiben.
 
 Abläufe im Hintergrund
 ======================
@@ -282,7 +285,7 @@ Und wir wollen die Ungereimtheiten nicht durch schlaue Wichtigkeiten schon im Vo
 Veränderungen durch den Spieler
 ===============================
 
-Im Spieleverzeichnis liegt ein config-Ordner. In diesem wiederum gibt es eine Datei „settings.xml“. Diese enthält eine Menge Sachen, die per Editor verändert werden können. Wenn Ihr in den „Einstellungen“ etwas verändert, was von den Vorgaben abweicht, wird eine „settings.user.xml“ angelegt - in dieser können auch händische Abaenderungen stattfinden, die vormals in der „settings.xml“ zu hinterlegen waren.
+Im Spieleverzeichnis liegt ein config-Ordner. In diesem wiederum gibt es eine Datei ?�settings.xml??. Diese enthält eine Menge Sachen, die per Editor verändert werden können. Wenn Ihr in den ?�Einstellungen?? etwas verändert, was von den Vorgaben abweicht, wird eine ?�settings.user.xml?? angelegt - in dieser können auch händische Abaenderungen stattfinden, die vormals in der ?�settings.xml?? zu hinterlegen waren.
 
 Kurz: die settings.user.xml enthält die  Abweichungen zu den vorgesehenen Einstellungen aus settings.xml
 
