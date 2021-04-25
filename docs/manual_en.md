@@ -148,28 +148,27 @@ The second way to acquire films here is by auction. For this, click on the aucti
 Ad Agency
 ---------
 
-This is the goodly fellow who keeps the wolf from the door. Now he actually wants to flog us the stuff which ruins the film for the viewers or gives them a chance to get crisps. In a nutshell: here are the commercials which are carefully broadcast hourly and keep the cash rolling in. You can see folders on the table and by the wall and another suitcase in the top right corner. There are usually folders in this case. Those are the previously agreed advertising contracts. The game donates the three there at the start of the game. That the three folders are placed only func in the suitcase and not anywhere in the archive should let you know that the spaces in the suitcase are limited. If the suitcase is full, then you can't sign new advertising contracts. You can only free up space once your adverts have finished broadcasting. Or if they pass the time limit, which results in a penalty though.
+This is the good fellow who keeps the wolf from the door. Now he actually wants to flog us the stuff which ruins the film for the viewers or gives them a chance to get crisps. In a nutshell: here are the commercials which are carefully broadcast each hour and keep the cash rolling in. You can see folders on the table and by the wall and another suitcase in the top right corner. There are usually folders in this case. Those are the previously agreed advertising contracts. The game donates the three there at the start of the game. That the three folders are placed only in the suitcase and not anywhere in the archive should let you know that the spaces in the suitcase are limited. If the suitcase is full, then you can't sign new advertising contracts. You can only free up space once your adverts have finished broadcasting. Or if they pass the time limit, which, however, results in a penalty.
 
 Move the mouse point over over the folders and you'll see information about the relevant advert. I don't need to explain the payout any further. The penalty is due if you don't broadcast the required commercials in the specified time with the required viewers. The tooltip also shows you how many times the advert has already been scheduled and broadcast.
 
+Here, too, the gaps that have been torn will be filled again after leaving the room. So head straight back in to see if something cheap has come up.
 
-Auch hier werden die gerissenen Lücken nach Verlassen des Raumes wieder aufgefüllt. Also schnell nochmal rein, ob noch was Günstiges hinzugekommen ist.
+There is a separate icon on the bottom left of the window. Move the mouse pointer over it and a menu pops up where the advertising contracts can be sorted by viewing figures or payout.
 
-Links unten im Raumbildschirm gibt es ein abgesetztes Icon. Fahrt mit dem Mauszeiger darauf und ein Menü klappt auf, mit dem die Werbeverträge nach Einschaltquoten oder Prämien sortiert werden können.
+Please don't complain too much that the advertising payments are not yet balanced correctly. This is an open field and not so finished either. But we're working on it.
 
-Bitte beschwert Euch nicht allzusehr, daß die Werbeprämien noch nicht so richtig ausbalanciert sind. Das ist ein weites Feld und nicht so nebenbei zu erledigen. Wir arbeiten aber daran.
+News Studio
+-----------
 
-Nachrichtenstudio 
------------------
+In the News Studio is produced, as you'd expect, the news. You can see the newsreader's booth on the right. That's just there to look good.
 
-Im Nachrichtenstudio werden, wie nicht anders zu erwarten, die Nachrichten produziert. Ihr seht rechts die Sprecherkabine. Die soll einfach gut aussehen.
+On the left are five coloured boards with different symbols attached. You can adjust the subscription levels there. The tooltip shows you which symbol belongs to which genre. The subscription levels differ in the time delay with which you receive the news. At 0 you don't receive any news in this genre. At 3 you receive it immediately, as soon as it's released. Likewise, subscription level 0 costs nothing, 3 costs the most.
 
-Links sind fünf farbige Tafeln mit verschiedenen Symbolen angebracht. Dort könnt Ihr die Abolevels einstellen. Der Tooltip zeigt Euch, welches Symbol zu welchem Genre gehört. Die Abolevel unterscheiden sich in der Zeitverzögerung mit der Ihr die Nachrichten zugestellt bekommt. Bei 0 bekommt Ihr für dieses Genre gar keine Nachrichten. Bei 3 erhaltet Ihr sie sofort, wenn sie erscheinen. Analog dazu kostet Abolevel 0 auch nichts, 3 dafür am meisten.
+The game will also add news bit by bit, as allowed by the predetermined level of delay. The news can entice viewers from other stations, who can then also watch the other programmes on your channel. Something to watch out for is that the billing level is always based on the highest one which was set that day. So it's worth switching down just before midnight. 
+You don't need to worry if you switch through the levels. The financial change takes effect after a few seconds.
 
-Nach und nach werden dem Spiel auch Nachrichten hinzugefügt, die erst ab einem bestimmten Level zur Verfügung stehen. Die Nachrichten können Zuschauer von anderen Sendern abziehen, die dann auch die Sendung bei Euch schauen könnten. Zu beachten ist, daß jeweils das Level für die Abrechnung zugrunde gelegt wird, das am Tag als höchstes eingestellt war. Also lohnt Runterschalten erst kurz vor 0 Uhr.
-Ihr braucht keine Angst zu haben, wenn Ihr die Level mal durchschaltet. Die Änderung tritt erst nach einigen Sekunden finanzträchtig inkraft.
-
-Klickt Ihr auf die Pinnwand, kommt Ihr zum eigentlichen Herzstück: Dem Angebot an Nachrichten - links - und die zur Ausstrahlung ausgewählten - rechts.
+If you click on the pinboard, then you come to the actual centrepiece: the supply of news - on the left - and those selected for transmission - on the right.
 
 Wie üblich auf die zu platzierende Sendung linksklicken und sie an den Platz bewegen, wo sie hin soll. Die zuvor dort gelegene habt Ihr dann an der Hand. Legt sie per Linksklick in der Auswahlliste, an einem anderen Sendeplatz ab oder entsorgt sie per Rechtsklick. In letzterem Fall steht sie dann aber nicht mehr zur Verfügung.
 
