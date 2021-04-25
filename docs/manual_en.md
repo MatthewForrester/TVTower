@@ -2,7 +2,7 @@ Manual for Developer Version
 ============================
 
 Author: Själe
-Translator: Matthew Forrester
+Translator: Matthew Forrester [notes in square brackets]
 
 Foreword
 
@@ -77,7 +77,7 @@ The basic things are explained in a video:
 
 https://www.youtube.com/watch?v=9reFu18PIJg
 
-Tom.io introduces the game with an (almost) complete explanation:
+Tom.io introduces the game with an (almost) complete explanation [in German]:
 
 https://www.youtube.com/watch?v=LaXdh_o3HA4
 
@@ -170,21 +170,21 @@ You don't need to worry if you switch through the levels. The financial change t
 
 If you click on the pinboard, then you come to the actual centrepiece: the supply of news - on the left - and those selected for transmission - on the right.
 
-Wie üblich auf die zu platzierende Sendung linksklicken und sie an den Platz bewegen, wo sie hin soll. Die zuvor dort gelegene habt Ihr dann an der Hand. Legt sie per Linksklick in der Auswahlliste, an einem anderen Sendeplatz ab oder entsorgt sie per Rechtsklick. In letzterem Fall steht sie dann aber nicht mehr zur Verfügung.
+As usual, left-click on the item to be placed and it moves onto the space where it should be. You will then have in your hand the one that was there before. Reposition it to another slot by left-clicking in the selection list  or dispose of it by right-clicking. In the latter case, however, it is no longer available.
 
-Da die Nachrichten eine eigene Einschaltquotenberechnung besitzen, könnte es schon interessant sein, da einige Kombinationen auszuprobieren. Es ist durchaus möglich, die Nachrichteneinschaltquote höherzupushen als die der vorangegangenen Sendung. Was der nachfolgenden Sendung dann wiederum mehr Zuschauer bescheren kann. Zudem reagieren die verschiedenen Zuschauergruppen verschieden auf verschiedene Nachrichten. Aber das findet selbst heraus. Auch die Reihenfolge der gesendeten Nachrichten hat einen Einfluss.
+Since the news possesses its own audience rating calculation, it can be quite interesting to try a few combinations. It is definitely possible to push the news audience higher than that of the preceding programme. Then the following programme can in turn get more viewers. In addition, the different viewer groups react differently to different news items. But find out for yourself. The sequence of the broadcast news items also has an effect.
 
-Senderkauf
-----------
-Da sind wir freilich bei einem der strategisch wichtigsten Features. Nutze ich das Geld erstmal für den Senderausbau oder für bessere Filme? Zu finden ist das Menü für den Senderkauf per Linksklick auf die Landkarte ganz rechts am Rand.
+Station Purchase
+----------------
+We've now obviously come to one of the strategically most important features. Should I initially use money for station construction or for better films? The menu for station construction can be found by left-clicingk on the map on the far right [of your office].
 
-Wenn Ihr dann auf ?�Sendemast kaufen?? klickt, erscheint an der Maushand ein Sendemastsymbol, das Ihr über die Karte bewegen könnt. Dabei wird Euch angezeigt, wieviele Zuschauer Ihr an der jeweiligen Stelle erreichen könnt. Dazu wird auch immer ausgewiesen, wieviele neue Zuschauer Ihr im Einzugsbereich habt. Das wird wichtig, wenn in Ballungszentren mehrere Sendemasten stehen, die sich gegebenenfalls überschneiden könnten. Da zählt dann freilich jeder mögliche Zuschauer nur einmal. Nicht zu vergessen in der untersten Zeile der Information: Der zu erwartende Kaufpreis.
+If you then click on "buy station" ********, a transmission mast symbol appears on the mouse pointer, which you can move over the map. In doing so it will display to you how many viewers you can reach at the appropriate location. That will also always indicate how many new viewers you have in the catchment area. That will be important if there are several transmission masts in metropolitans areas, which might perhaps overlap. Each possible viewer obviously only counts once. Not to be forgotten is the information in the lowest line: the expected purchase price.
 
-Habt Ihr eine passende Stelle für den Masten gefunden, fixiert ihn per Linksklick und bestätigt mit dem Button ?�Sendemast kaufen??. Wollt Ihr nach dem Platzieren doch lieber nochmal gucken, dann könnt Ihr den Sendemast per Rechtsklick wieder entfernen. Habt Ihr den Button ?�kaufen?? schon angeklickt, ist es dafür freilich zu spät. Ihr könntet jetzt den Sendemast wieder verkaufen. Wählt Ihn dazu in der Liste rechts unten aus. Und dann auf den Button ?�Sendemast verkaufen??. Gemeinerweise erhaltet Ihr weniger Geld zurück, als er gekostet hat.
+When you have found a suitable place for the mast, fix it by left-clicking and confirm with the "buy station" ******** button. If you like the look of somewhere else after placing, then you can remove the transmission mast again by right-clicking. If you have already clicked on the "buy" ***** button it's obviously too late for that. You can now sell the transmission mast again. To do this, select it in the list on the right. And then onto the "sell station" ***** button. You get less money back from the tightwads than it cost you.
 
-Die Menüpunkte am unteren Rand ?�Kabelnetzanbindung?? und ?�Satellitenanbindung?? geben den möglichen Zugriff auf vorhandene Kabelnetze und Satelliten an. Während die vorhandenen Satelliten aufgelistet werden, werden die verfügbaren Kabelnetze durch Überfahren der Landkarte angezeigt. Wenn Ihr die angegebenen Bedingungen erfüllt, könnt Ihr die Anbindungen mieten. Vorgesehen ist jeweils eine einjährige Vertragslaufzeit. Die Abdeckung von Kabel oder Satellit ist an die realen Daten angelehnt. Es ist also nur eine teilweise Abdeckung der Gebiete zu erwarten. Diese steigt jedoch im Laufe des Spiels.
+The menu items "cable networks" and "satellite links" **** at the bottom supply the possibility of access to available cable networks and satellites. While the available satellites will be listed, the available cable networks will be shown by moving over the map. If you meet the specified conditions, you can rent the connections. Be aware that for each one there is a one-year contractual term. The coverage of cable and satellite is based on the real data. Therefore only partial coverage of the areas is to be expected. However, this rises in the course of the game.
 
-Für alle drei Sendearten wird die Zuschaltung der Reichweite zur nächsten vollen Stunde ermöglicht.
+For all three types of transmission, the range is extended at the top of the next hour.
 
 Drehbuchagentur
 ---------------
