@@ -122,37 +122,36 @@ Movie Agency
 
 This is used for the acquisition and sale of films. On the left you can see the agent behind his desk. On the right there's a bookcase. In the centre is your suitcase. If you have come straight from the archive, it may contain the films that you've selected to sell. If you want to sell them, left-click on them and click on the movie agent with the film. Then the film is gone. But whether it will turn up in the bookcase again is uncertain.
 
-Sie dient zum Erwerb und Verkauf von Filmen. Links seht Ihr den Agenten hinter seinem Schreibtisch. Rechts ein Regal. In der Mitte ist Euer Koffer. Seid Ihr gerade aus dem Archiv gekommen, befinden sich eventuell darin die von Euch zum Verkauf ausgesuchten Filme. Wenn Ihr sie verkaufen wollt, klickt mit links darauf, und klickt mitsamt dem Film auf den Filmagenten. Dann ist der Film weg. Ober er je wieder im Regal auftaucht, ist ungewiß.
+Turning to acquisition, there are two methods. The first one is the films in the bookcase. Move the mouse pointer over the slipcases and it will bring up information about the respective film. The price, course. It states whether or not you can afford it. More important for the audience ratings, however, are the bars for Speed, Box Office and Critics. And also the Topicality. This descreases with every broadcast. And with it the monetary value of the film. If the film isn't broadcast for a while, the Topicality will return to a certain level.
 
-Zum Erwerb gibt es zwei Möglichkeiten. Einmal die Filme im Regal. Fahrt mit dem Mauszeiger über die Schuber und es werden Informationen zu den jeweiligen Filmen auftauchen. Freilich der Preis. Der sagt aus, ob Ihr ihn Euch leisten könnt. Wichtiger für die Einschaltquoten aber sind die Balken für Tempo, Kinokasse und Kritik. Und auch die Aktualität. Diese verringert sich mit jedem Senden. Und damit auch der Geldwert des Films. Wird der Film eine Weile nicht gesendet, frischt sich die Aktualität bis zu einem gewissen Grad wieder auf.
+How the films' attributes are to be assessed, described by STARSCRazy:
 
-Wie die Filmeigenschaften zu bewerten sind, beschrieb STARSCrazy:
+"Speed: How interesting the film is to Joe Bloggs (affects viewer ratings).
 
-?�Tempo: Wie interessant finden Normalos den Film (entspricht  Zuschauer-Ratings)
+Criticism: How interesting the film is to critics (affects critic ratings).
 
-Kritik: Wie interessant finden Kritiker den Film (entspricht  Kritiker-Ratings)
+Box Office: How successful the film was at the box office.
 
-Kinokasse: Wie erfolgreich war der Film an der Kinokasse.
+For all three values: the higher the better.
 
-Bei allen drei Werten gilt: je höher desto besser.
+But each has some values that are more important than others, according to their genre:
 
-Je nach Genre sind aber manche Werte wichtiger als andere:
+* Criticism is especially important when it comes to Culture, Live, Music, and Shows.
+* Speed is important in Erotic, Sport, Gossip, pay-TV
+* Box Office matters for Action, Sci-Fi, Fantasy, Comedy, Romance"
 
-* Kritik ist vor allem wichtig bei Kultur, Live, Musik, Show.
-* Tempo ist wichtig bei Erotik, Sport, Klatsch, Bezahlfernsehen
-* Kinokasse ist wichtig bei Action, Sci-Fi, Fantasy, Komödie, Liebe??
+Click on a film, move it over the suitcase and click once more, then it will land in the suitcase. That's only a pre-selection though. Although the money is immediately deducted, if you click on the film again and move it to the bookcase, and click there again, it's placed in the bookcase and the money is back in your account. But if you leave the room with the film in the suitcase, then the film unavoidably ends up in the archive and is automatically available for your programme planning. Should the suitcase be full of films, then leave the room, re-enter it and you will have enough space to go shopping again. By the way: the gaps opened by your purchases will have been filled by the agent in the meantime.
+
+The second way to acquire films here is by auction. For this, click on the auctioneer's hammer on the agent's desk. This displays a menu with films and their respective minimum bids. Mouse over it to display the information about the film again. Click on it and you have made an offer. The money is immediately deducted from your account. If no other player has bid by midnight, then the film automatically lands in your archive and stands ready for programme planning.
 
 
-Klickt auf einen Film, bewegt ihn über den Koffer und klickt erneut, dann landet er im Koffer. Das stellt nur eine Vorauswahl dar. Zwar wird Euch das Geld sofort abgezogen, wenn Ihr aber wiederum auf den Film klickt und ihn zum Regal bewegt, dort wieder klickt, landet er im Regal und das Geld ist wieder auf Eurem Konto. Verlaßt Ihr aber den Raum mit dem Film im Koffer, dann landet der Film unweigerlich im Archiv und steht automatisch für Eure Sendeplanung zur Verfügung. Sollte der Koffer mal voller Filme sein, so verlaßt den Raum, betretet ihn wieder und Ihr habt genug Platz zum Weitershoppen. Ganz nebenbei: Die vorher durch Euren Einkauf geschaffenen Lücken wurden in der Zwischenzeit vom Agenten aufgefüllt.
+Ad Agency
+---------
 
-Die zweite Möglichkeit hier Filme zu erwerben, besteht in der Auktion. Dazu klickt auf den Holzhammer auf dem Agentenschreibtisch. Da erscheint ein Menü mit Filmen und dem jeweiligen Mindestgebot. Das drüberfahren mit der Maus zeigt Euch wieder die Informationen zum Film. Klickt darauf und Ihr habt ein Angebot gemacht. Das Geld wird sofort vom Konto abgezogen. Sollte bis Mitternacht kein weiterer Spieler bieten, landet der Film automatisch in Eurem Archiv und steht für die Sendeplanung bereit.
+This is the goodly fellow who keeps the wolf from the door. Now he actually wants to flog us the stuff which ruins the film for the viewers or gives them a chance to get crisps. In a nutshell: here are the commercials which are carefully broadcast hourly and keep the cash rolling in. You can see folders on the table and by the wall and another suitcase in the top right corner. There are usually folders in this case. Those are the previously agreed advertising contracts. The game donates the three there at the start of the game. That the three folders are placed only func in the suitcase and not anywhere in the archive should let you know that the spaces in the suitcase are limited. If the suitcase is full, then you can't sign new advertising contracts. You can only free up space once your adverts have finished broadcasting. Or if they pass the time limit, which results in a penalty though.
 
-Werbemakler
------------
+Move the mouse point over over the folders and you'll see information about the relevant advert. I don't need to explain the payout any further. The penalty is due if you don't broadcast the required commercials in the specified time with the required viewers. The tooltip also shows you how many times the advert has already been scheduled and broadcast.
 
-Das ist der gute Mann, der uns die Mäuse fängt. Nun eigentlich schwatzt er uns Sachen auf, die den Zuschauern den Film vermiesen oder Platz schaffen, um Chips zu holen. Kurz und gut: Hier gibt?�s die Werbeblöcke, die stündlich gesendet dafür sorgen, daß wir Geld reinkriegen. Ihr seht auf dem Tisch und an der Wand Ordner stehen und rechts oben wieder einen Koffer. In diesem Koffer stehen normalerweise schon Ordner. Das sind die bereits abgeschlossenen Werbeverträge. Drei davon spendiert das Spiel gleich beim Spielstart. Daß die drei Ordner im Koffer stehen und nicht irgendwo im Archiv, soll Euch darauf hinweisen, daß der Platz im Koffer beschränkt ist. Ist der Koffer voll, so könnt Ihr keinen neuen Werbevertrag abschließen. Platz schaffen funktioniert nur, indem Ihr Werbung zu Ende sendet. Oder wenn sie nach der Frist verfällt, was jedoch eine Strafzahlung zur Folge hat.
-
-Fahrt mit den Mauszeigern über die Ordner und ihr seht die werberelevanten Informationen. Die Prämie muß ich nicht weiter erläutern. Die Strafe wird fällig, wenn Ihr die erforderlichen Blöcke nicht in der angegebenen Zeit mit den geforderten Zuschauern sendet. Im Tooltip wird Euch übrigens auch angezeigt, wie oft die Werbung schon eingeplant bzw. gesendet wurde.
 
 Auch hier werden die gerissenen Lücken nach Verlassen des Raumes wieder aufgefüllt. Also schnell nochmal rein, ob noch was Günstiges hinzugekommen ist.
 
@@ -160,7 +159,7 @@ Links unten im Raumbildschirm gibt es ein abgesetztes Icon. Fahrt mit dem Mausze
 
 Bitte beschwert Euch nicht allzusehr, daß die Werbeprämien noch nicht so richtig ausbalanciert sind. Das ist ein weites Feld und nicht so nebenbei zu erledigen. Wir arbeiten aber daran.
 
-Nachrichtenstudio
+Nachrichtenstudio 
 -----------------
 
 Im Nachrichtenstudio werden, wie nicht anders zu erwarten, die Nachrichten produziert. Ihr seht rechts die Sprecherkabine. Die soll einfach gut aussehen.
