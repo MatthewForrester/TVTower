@@ -186,34 +186,34 @@ The menu items "cable networks" and "satellite links" **** at the bottom supply 
 
 For all three types of transmission, the range is extended at the top of the next hour.
 
-Drehbuchagentur
----------------
+Script Agency
+-------------
 
-Hier könnt Ihr Drehbücher für die Eigenproduktion kaufen. Die stehen auf und neben dem kleinen Schrank an der Tür. Drüberfahren mit dem Mauszeiger lässt Datenblätter erscheinen, auf dem die entsprechenden Informationen nachgelesen werden können. Klickt auf das gewünschte Drehbuch und legt es im Koffer durch Loslassen der linken Maustaste ab. Sobald der Raum verlassen wird, nennt sich das gewählte Drehbuch Euer Eigen.
+Here you can buy scripts for your own productions. They stand on and next to the little cupboard by the door. Hovering the mouse pointer over them lets data sheets appear, on which you can read up on the relevant information. Click on the desired script and place it in the suitcase through letting go of the left mouse-button. As soon as you leave the room, the selected script is yours.
 
 Studio
 ------
 
-Mit dem ausgewählten Drehbuch geht es ins Studio. Klickt dort auf das gewünschte Drehbuch im Koffer und legt es rechts auf dem Schränkchen ab. Links steht der Studioleiter. Linksklickt auf ihn und es erscheint ein Dialog, in dem Ihr eine Einkaufsliste fordern könnt. Diese erscheint nach Linksklick auf ?�ich brauche eine Einkaufsliste...?? mittig am unteren Rand. Die kann dann da hängen bleiben. Und ab geht's zum Supermarkt.
+Take the chosen script into the Studio. Click on the desired script in the suitcase and move it rightwards onto the little cabinet. The studio supervisor stands on the left. Left-click on him and a dialogue is displayed in which you can claim a Shopping List. These appear below in the centre, after left-clicking on "I need a shopping list..." XXXXX  They then stay hanging there. And off we go to the Supermarket.
 
-Vom Supermarkt zurück, könnt Ihr einen Film mit vollständiger Einkaufsliste zur Produktion freigeben. Wählt dazu den gewünschten Film und klickt auf den Studioleiter.
+Returning from the Supermarket, you can release a film with a completed Shopping List into production. Choose the desired film and click on the studio supervisor.
 
-Supermarkt
-----------
+Supermarket
+-----------
 
-Betretet den Supermarkt und es wird ein Dialog angeboten, der zum Einkauf eines Betty-Geschenks oder dem Prozedere der Filmproduktionsvorbereitung führt.
+Enter the Supermarket and you will be offered a dialogue which leads to buying a present for Betty or the procedure for film pre-production.
 
-Betty-Geschenke interessieren nur Betty oder eben nicht. Probiert selber aus, ob Eure Einschätzung ihres Charakters der Spielrealität entspricht. Hier kommt weiter nix dazu.
+Betty gifts are only interesting to Betty or not at all. Try out for yourself whether your assessment of her character corresponds to the in-game reality. There's nothing more to add here.
 
-Wählt also die Filmproduktion. Im nächsten Bildschirm stehen links oben die Drehbüchertitel für die schon Einkaufslisten angefordert wurden. Klickt den gewünscht an.
+So choose film production. On the top left of the next screen are the script titles for which the Shopping Lists have been claimed. Click on the one you want.
 
-Mittig erscheinen jetzt die verschiedenen zu besetzenden Akteursanforderungen (Regisseur, Darstellerin usw.). Klickt diese jeweils an und eine Liste möglicher Personen erscheint. Der blaue Balken symbolisiert grob den zugehörigen Erfahrungsstand. Dieser ändert sich mit weiteren Produktionen. Fahrt mit dem Mauszeigefinger über die Personen und es erscheint für die jeweilige Person ein Tooltip mit den individuellen Eigenschaften. Die eingegrünten Eigenschaften sind besonders nützlich für die zu besetzende Produktion, die eingegrauten eher uninteressant. Wählt für jeden geforderten Akteurstyp eine Person.
+The various required cast members (director, actor, etc.) now appear in the middle. Click on each one and a list of possible characters is displayed. The blue bars roughly symbolize the appropriate level of experience. This changes with further productions. Move the mouse cursor over the characters and it displays a tooltip for each character with their individual attributes. The attributes in green are specially useful for the present production, those in grey are relatively uninteresting. Choose a character for each required cast member.
 
-Falls die Wahl rückgängig gemacht werden soll, ist dies per Rechtsklick auf die entsprechende Person möglich.
+If you should want to undo your choice, it's possible by right-clicking on the appropriate character.
 
-Als nächstes muss im rechten Bildschirmteil noch eine Produktionsfirma gewählt werden. Die gibt es in drei Leveln. Wobei jedes Level seinen Preis und eine Anzahl Produktionspunkte mit sich bringt. Ersterer muss gezahlt werden, letztere können auf die Produktionsschwerpunkte vergeben werden. Oder aber auf das Produktionstempo.
+Next a production company has to be selected in the part of the screen on the right. There are three XXXXXXXXXX levels. Each level has its price and brings with it a certain number of Production Points. The former must be paid, the latter can be assigned to the main production areas. Or alternatively to the speed of production.
 
-Die Produktionsschwerpunkte sind je nach Genre unterschiedlich gewichtet. Freilich brauch ein Actionfilm eher Stunts, als ein Liebesfilm. Aber das soll nicht im Einzelnen ausgeplaudert werden. Wenn alle Punkte vergeben sind, kann links unterhalb der Gesamtkosten und der Produktionszeit die Planung abgeschlossen werden.
+The main areas of production are each weighted differently according to their genres. Obviously an action film needs stunts rather more than a romance. But that should not be divulged in detail. When all the points have been allocated, planning can be completed on the left below the total cost and the production time.
 
 Zehn Prozent der Gesamtkosten werden sofort fällig. Der Rest dann bei Fertigstellung. Über diese wird per Ingame-Nachricht berichtet. Die Sendung ist dann im Programmplaner verfügbar. Für die Zeit der Produktion ist das Studio übrigens nicht betretbar. Per Tooltip an der Studiotür wird über den Zeitpunkt informiert.
 
