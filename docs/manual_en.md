@@ -2,6 +2,7 @@ Manual for Developer Version
 ============================
 
 Author: Själe
+
 Translator: Matthew Forrester [notes in square brackets]
 
 Foreword
@@ -113,7 +114,7 @@ You will also find the "Finance", "Statistics" and "Achievements" items on the r
 Archive
 -------
 
-In the archive you meet the archivist. You needs him, if you want to sell the film that you own. Click on the archivist and you will be shown a list of the genres. If you own films of a certain genre, then it is coloured black, with green lines next to it, which indicate the number of films under ths genre. So click on a genre and select the film that you want to move to the film rental shop, click on it and place it in the suitcase.
+In the Archive you meet the archivist. You need him, if you want to sell the film that you own. Click on the archivist and you will be shown a list of the genres. If you own films of a certain genre, then it is coloured black, with green lines next to it, which indicate the number of films under ths genre. So click on a genre and select the film that you want to move to the film rental shop, click on it and place it in the suitcase.
 
 But beware! If you put a film which is currently set in the Programme Schedule into the suitcase and leave the room with it, then it will be deleted from the Programme Schedule. So you will have to fill that gap again later.
 
@@ -176,7 +177,7 @@ Since the news possesses its own audience rating calculation, it can be quite in
 
 Station Purchase
 ----------------
-We've now obviously come to one of the strategically most important features. Should I initially use money for station construction or for better films? The menu for station construction can be found by left-clicingk on the map on the far right [of your office].
+We've now obviously come to one of the strategically most important features. Should I initially use money for station construction or for better films? The menu for station construction can be found by left-clicking on the map on the far right [of your office].
 
 If you then click on "buy station" ********, a transmission mast symbol appears on the mouse pointer, which you can move over the map. In doing so it will display to you how many viewers you can reach at the appropriate location. That will also always indicate how many new viewers you have in the catchment area. That will be important if there are several transmission masts in metropolitans areas, which might perhaps overlap. Each possible viewer obviously only counts once. Not to be forgotten is the information in the lowest line: the expected purchase price.
 
@@ -203,7 +204,7 @@ Supermarket
 
 Enter the Supermarket and you will be offered a dialogue which leads to buying a present for Betty or the procedure for film pre-production.
 
-Betty gifts are only interesting to Betty or not at all. Try out for yourself whether your assessment of her character corresponds to the in-game reality. There's nothing more to add here.
+Betty Gifts are only interesting to Betty or not at all. Try out for yourself whether your assessment of her character corresponds to the in-game reality. There's nothing more to add here.
 
 So choose film production. On the top left of the next screen are the script titles for which the Shopping Lists have been claimed. Click on the one you want.
 
@@ -215,20 +216,20 @@ Next a production company has to be selected in the part of the screen on the ri
 
 The main areas of production are each weighted differently according to their genres. Obviously an action film needs stunts rather more than a romance. But that should not be divulged in detail. When all the points have been allocated, planning can be completed on the left below the total cost and the production time.
 
-Zehn Prozent der Gesamtkosten werden sofort fällig. Der Rest dann bei Fertigstellung. Über diese wird per Ingame-Nachricht berichtet. Die Sendung ist dann im Programmplaner verfügbar. Für die Zeit der Produktion ist das Studio übrigens nicht betretbar. Per Tooltip an der Studiotür wird über den Zeitpunkt informiert.
+Ten percent of the total cost is due immediately. Then the rest at completion. The will be reported by in-game Notification. The programme is then available in the programme planner. By the way, the Studio cannot be entered during the production time. You will be informed when that point will pass by the tooltip on the studio door.
 
-Chef-Kredit-Bettelei
---------------------
+Boss-Loans-Begging
+------------------
 
-Das Chef-Zimmer ist rechts neben dem Fahrstuhl auf Eurer Etage. Der ist ein Chef der alten Schule, achtet bitte auf den vorzüglich animierten Zigarrenqualm. Der tut allerdings nicht zur Sache.
+The Boss' Room is on the right of the elevator on your floor. He is a boss of the old school, please keep an eye on his exquisitely animated cigar smoke. However, it's much of a muchness.
 
-Was es hier zu tun oder zu lassen gibt, wird in der Sprechblase angezeigt. Klickt einfach auf das Eurem Anliegen Entsprechende, wobei es sich derzeit ausschließlich um geldwerte Optionen handelt. Zahlt zurück oder nehmt neuen Kredit auf.
+What there is do or not do here will be shown in the speech bubble. Simply click on the one that corresponds to your request, which is currently drawn only from financial choices. Pay back or take out new loans.
 
-Die Kreditvergabe hängt von verschiedenen Faktoren ab. So veränderen nicht eingehaltene Werbeverträge oder Sendeausfälle Chefs Laune, was momentan aber nur Auswirkungen auf den Kreditrahmen hat.
+The credit allocation depends on different factors. So not keeping advertising contracts or broadcasting outages changes the boss' mood, which at the moment only has implications for the line of credit.
 
-Von Zeit zu Zeit erscheint eine Meldung, daß Euch der Chef sehen will. Er läßt Euch dafür 2 Spielstunden Zeit. Laßt Ihr die Zeit verstreichen, bewegt sich die Spielfigur selbsttätig ins Direktionsbüro. Sie weiß halt, was sich gehört. Durch Linksklick auf die Meldung könnt Ihr den Besuch sofort ausführen.
+From time to time a notification appears that the boss wants to see you. He gives you two in-game hours for this. If you let the time expire, your character moves itself automatically into the director's office. It just knows what's best for it. You can immediately pay a visit by left-clicking on the notification.
 
-Desweiteren informiert Euch der Chef über anstehende Sammy-Verleihungen. Wenn Ihr den Wettbewerb gewinnt, winken kleine Preis in Geld oder Boni auf die Einschaltquoten.
+In addition, the boss informs you about upcoming Sammy awards. If you win the competition, a small prize in cash or a bonus to the audience ratings beckons.
 
 Terrorist
 ---------
