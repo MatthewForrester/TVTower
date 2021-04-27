@@ -123,7 +123,7 @@ Movie Agency
 
 This is used for the acquisition and sale of films. On the left you can see the agent behind his desk. On the right there's a bookcase. In the centre is your suitcase. If you have come straight from the archive, it may contain the films that you've selected to sell. If you want to sell them, left-click on them and click on the movie agent with the film. Then the film is gone. But whether it will turn up in the bookcase again is uncertain.
 
-Turning to acquisition, there are two methods. The first one is the films in the bookcase. Move the mouse pointer over the slipcases and it will bring up information about the respective film. The price, course. It states whether or not you can afford it. More important for the audience ratings, however, are the bars for Speed, Box Office and Critics. And also the Topicality. This descreases with every broadcast. And with it the monetary value of the film. If the film isn't broadcast for a while, the Topicality will return to a certain level.
+Turning to acquisition, there are two methods. The first one is the films in the bookcase. Move the mouse pointer over the slipcases and it will bring up information about the respective film. The price, course. It states whether or not you can afford it. More important for the audience ratings, however, are the bars for Speed, Box Office and Critics. And also the Topicality. This decreases with every broadcast. And with it the monetary value of the film. If the film isn't broadcast for a while, the Topicality will return to a certain level.
 
 How the films' attributes are to be assessed, described by STARSCRazy:
 
@@ -166,7 +166,7 @@ In the News Studio is produced, as you'd expect, the news. You can see the newsr
 
 On the left are five coloured boards with different symbols attached. You can adjust the subscription levels there. The tooltip shows you which symbol belongs to which genre. The subscription levels differ in the time delay with which you receive the news. At 0 you don't receive any news in this genre. At 3 you receive it immediately, as soon as it's released. Likewise, subscription level 0 costs nothing, 3 costs the most.
 
-The game will also add news bit by bit, as allowed by the predetermined level of delay. The news can entice viewers from other stations, who can then also watch the other programmes on your channel. Something to watch out for is that the billing level is always based on the highest one which was set that day. So it's worth switching down just before midnight. 
+The game will also add news bit by bit, as allowed by the predetermined level of delay. The news can entice viewers from other stations, who can then also watch the other programmes on your channel. Something to watch out for is that the billing level is always based on the highest one which was set that day. So it's worth implementing cutbacks just before midnight.
 You don't need to worry if you switch through the levels. The financial change takes effect after a few seconds.
 
 If you click on the pinboard, then you come to the actual centrepiece: the supply of news - on the left - and those selected for transmission - on the right.
@@ -190,7 +190,7 @@ For all three types of transmission, the range is extended at the top of the nex
 Script Agency
 -------------
 
-Here you can buy scripts for your own productions. They stand on and next to the little cupboard by the door. Hovering the mouse pointer over them lets data sheets appear, on which you can read up on the relevant information. Click on the desired script and place it in the suitcase through letting go of the left mouse-button. As soon as you leave the room, the selected script is yours.
+Here you can buy scripts for your in-house productions. They stand on and next to the little cupboard by the door. Hovering the mouse pointer over them lets data sheets appear, on which you can read up on the relevant information. Click on the desired script and place it in the suitcase through letting go of the left mouse-button. As soon as you leave the room, the selected script is yours.
 
 Studio
 ------
@@ -223,7 +223,7 @@ Boss-Loans-Begging
 
 The Boss' Room is on the right of the elevator on your floor. He is a boss of the old school, please keep an eye on his exquisitely animated cigar smoke. However, it's much of a muchness.
 
-What there is do or not do here will be shown in the speech bubble. Simply click on the one that corresponds to your request, which is currently drawn only from financial choices. Pay back or take out new loans.
+What there is do, or not do, here will be shown in the speech bubble. Simply click on the one that corresponds to your request, which is currently drawn only from financial choices. Pay back or take out new loans.
 
 The credit allocation depends on different factors. So not keeping advertising contracts or broadcasting outages changes the boss' mood, which at the moment only has implications for the line of credit.
 
@@ -234,27 +234,29 @@ In addition, the boss informs you about upcoming Sammy awards. If you win the co
 Terrorist
 ---------
 
-Das ist der Mann für's Grobe. Nicht unumstritten sorgt er dafür, daß immer genügend freie Räume im Haus zu Verfügung stehen. Denn freie Räume sind knapp und im späteren Spielverlauf braucht es größere Studios. Das erste, das Euer Eigen ist, hat nur die Größe eins.
+He is a nasty piece of work. Not without controversy, he ensures that there are always enough free roooms in the building. Because free rooms are scarce and in the later course of the game needed as larger studios. The first one that you have is only size one.
 
-Der Terrorist ist eigentlich ein Handlanger der beiden dubanischen Botschaften, die in ständigem Zwist miteinander liegen. Die jeweils andere Seite ist das eigentliche Ziel. Die Terrorgefahr wird im späteren Verlauf mit einer Nachricht angekündigt.
+The terrorist is actually a henchman of both Dubanian embassies, who are in perpetual conflict with one another. THe other side is the real target. The terrorist threat is announced with a notification later in the course of events.
 
-Kurz darauf betritt der Terrorist das Gebäude und geht zur Informationstafel. Da wird Euer Mittun möglich. Denn Ihr könnt die Schilder auf der Informationstafel vertauschen. Hängt nun das Schild der Botschaft des Landes, das als Ziel für einen möglichen Angriff in den Nachrichten erwähnt wurde, an eine beliebige Stelle und der Terrorist wird seine Schritte dorthin lenken. Wenn Ihr sehen wollt, was passiert, fahrt einfach mit.
+Shortly afterwards, the terrorist enters the building and goes to the information board. That is where you have the chance to participate. Because you can mix up the nameplates on the information board. Hang the nameplate of the embassy of the country which is mentioned in the news as the target for a possible attack on a random place and the terrorist will direct his steps there. If you would like to see what happens, simply follow along.
 
-Die KI könnte übrigens das jeweilige Botschaftsschild auch auf Eure Büros oder Studios platzieren.
+By the way, the AI can also place the appropriate embasssy nameplate on your offices or studios.
 
-Immobilien-Makler
------------------
+Estate Agent XXXXXXXXXX
+------------
 
-Dieser nette Mensch ermöglicht Euch die Anmietung neuer und eventuell größerer Studios. Auf die Pinwand links geklickt und es erscheint der im Haus belegten Räume. Etwas hervorgehoben sind die potentiell anmietbaren. Ein Tooltip enthält die jeweiligen derzeitigen Mieter und die Studiogröße. Letztere hat im Moment noch keinen Einfluss auf die Eigenproduktion.
+This pleasant chap enables you to rent newer and eventually bigger studios. Left-click on the pinboard and it displays the occupied rooms in the building. The potential rentable ones are highlighted somewhat. A tooltip contains the present tenant of each one and the studio size. The latter still has no influence on your in-house productions at the moment.
 
-Wie Ihr die Mieter überzeugen könnt, ihre Räume aufzugeben, lernen wir später.
+We will learn later how you can convince the tenants to give up their rooms.
 
-FSK 18 und Gerichtsvollzieher
------------------------------
+'FSK18' and Bailiffs
+--------------------
 
-Filme mit dem Hinweis FSK 18 dürfen laut den Jugendschutzgesetzen im TVTower-Land nicht zwischen 6 und 22 Uhr gesendet werden. Es bleibt Euch jedoch überlassen, ob Ihr Euch daran haltet. Allerdings hat die Sache einen Haken. Oder besser zwei. Die Behörden können schon in der Programmplanung erkennen, daß Ihr vorhabt ein Gesetz zu unterlaufen. Daraufhin wird eine Strafzahlung fällig und der Film wird aus dem Programmplaner entfernt. Die Lücke müßt Ihr dann wieder füllen.
+Films with the label 'FSK18' [the German equivalent of an 18 certificate or TV-MA rating] may not be broadcast between 0600 and 2200 according to the Youth Protection Law of TVTower-land. It rests with you whether you will abide by that. But there's a catch. Or, more accurately, two. The authorities could detect in the Programme Schedule that you intend to flout the law. A fine is subsequently due and the film will be removed from the Programme Schedule. Then you must fill the gap again.
 
-Habt Ihr es geschafft, den Film unbemerkt an der Zensur vorbeizuschmuggeln, gibt es nach der Ausstrahlung immer noch eine 25%ige Chance, daß einer der beiden Gerichtsvollzieher (Mr. Czwink und Mr. Czwank) erscheint. Da sie sich nicht so gut auskennen im TVTower, informieren sie sich ganz wie der Herr Terrorist an der Informationstafel. Vertauscht die Archivschilder zweckdienlich und ein Film der Konkurrenz könnte beschlagnahmt werden. Wurde ein Film beschlagnahmt, so erhaltet Ihr eine Meldung darüber.
+If you have managed to smuggle the film past the censor unnoticed, there is still always a 25% chance that one of the two court bailiffs (Mr Czwink and Mr Czwank) appear after the broadcast. Since they don't know their way around TV-Tower that well, they inform themselves at the information board just like Mr Terrorist. Swap the appropriate Archive nameplate and a film might be confiscated from the competition. If a film has been confiscated, you will receive a notification about it.
+
+
 
 Wie im wirklichen Leben verringern die FSK18-Ausstrahlungen zur falschen Zeit das Image. Derzeit um 0.5 Prozentpunkte.
 
