@@ -11,7 +11,7 @@ Please always have in the back of your mind that this is a developer version. It
 
 For this we're dependent on your help. Tell us about mistakes, make suggestions, discuss with us whether the game makes sense or not, and lend a hand, if you have the skills to contribute. It's also great to motivate ourselves by chatting in the forum:
 
-http://www.gamezworld.de/phpforum/
+https://www.gamezworld.de/phpforum/
 
 At the moment the game is playable as an endless game. The AI works, but it's not yet in it's final state.
 
@@ -114,24 +114,24 @@ You will also find the "Finance", "Statistics" and "Achievements" items on the r
 Archive
 -------
 
-In the Archive you meet the archivist. You need him, if you want to sell the film that you own. Click on the archivist and you will be shown a list of the genres. If you own films of a certain genre, then it is coloured black, with green lines next to it, which indicate the number of films under ths genre. So click on a genre and select the film that you want to move to the film rental shop, click on it and place it in the suitcase.
+In the Archive you meet the archivist. You need him, if you want to sell the programme rights that you own. Click on the archivist and you will be shown a list of the genres. If you own rights from a certain genre, then they is coloured black, with green lines next to it, which indicate the number of rights under ths genre. So click on a genre and select the rights that you want to move to the Movie Agency, click on them and place it in the suitcase.
 
-But beware! If you put a film which is currently set in the Programme Schedule into the suitcase and leave the room with it, then it will be deleted from the Programme Schedule. So you will have to fill that gap again later.
+But beware! If you put rights which are currently set in the Programme Schedule into the suitcase and leave the room with them, then the programme or film previously in the schedule will be deleted. So you will have to fill that gap again later.
 
 Movie Agency
 ------------
 
-This is used for the acquisition and sale of films. On the left you can see the agent behind his desk. On the right there's a bookcase. In the centre is your suitcase. If you have come straight from the archive, it may contain the films that you've selected to sell. If you want to sell them, left-click on them and click on the movie agent with the film. Then the film is gone. But whether it will turn up in the bookcase again is uncertain.
+This is used for the acquisition and sale of films, series, and so forth ('programme rights'). On the left you can see the agent behind his desk. On the right there's a bookcase. In the centre is your suitcase. If you have come straight from the archive, it may contain the rights that you've selected to sell. If you want to sell them, left-click on them and click on the movie agent with the programme rights. Then the rights are gone. But whether they will turn up in the bookcase again is uncertain.
 
-Turning to acquisition, there are two methods. The first one is the films in the bookcase. Move the mouse pointer over the slipcases and it will bring up information about the respective film. The price, course. It states whether or not you can afford it. More important for the audience ratings, however, are the bars for Speed, Box Office and Critics. And also the Topicality. This decreases with every broadcast. And with it the monetary value of the film. If the film isn't broadcast for a while, the Topicality will return to a certain level.
+Turning to acquisition, there are two methods. Firstly, the programme rights in the bookcase. Move the mouse pointer over the slipcases and it will bring up information about the respective rights. The price, course. It states whether or not you can afford it. More important for the audience ratings, however, are the bars for Speed, Box Office and Critics for the programmes included in the rights. And also the Topicality. This decreases with every broadcast. And with it the monetary value of the rights. If the programme isn't broadcast for a while, the Topicality will return to a certain level.
 
-How the films' attributes are to be assessed, described by STARSCRazy:
+How the attributes of programmes are to be assessed, described by STARSCRazy:
 
-"Speed: How interesting the film is to Joe Bloggs (affects viewer ratings).
+"Speed: How interesting the programme is to Joe Bloggs (affects viewer evaluations).
 
-Criticism: How interesting the film is to critics (affects critic ratings).
+Criticism: How interesting the programme is to critics (affects critics' assessment).
 
-Box Office: How successful the film was at the box office.
+Box Office: How successful a film was at the box office.
 
 For all three values: the higher the better.
 
@@ -141,15 +141,15 @@ But each has some values that are more important than others, according to their
 * Speed is important in Erotic, Sport, Gossip, pay-TV
 * Box Office matters for Action, Sci-Fi, Fantasy, Comedy, Romance"
 
-Click on a film, move it over the suitcase and click once more, then it will land in the suitcase. That's only a pre-selection though. Although the money is immediately deducted, if you click on the film again and move it to the bookcase, and click there again, it's placed in the bookcase and the money is back in your account. But if you leave the room with the film in the suitcase, then the film unavoidably ends up in the archive and is automatically available for your programme planning. Should the suitcase be full of films, then leave the room, re-enter it and you will have enough space to go shopping again. By the way: the gaps opened by your purchases will have been filled by the agent in the meantime.
+Click on a package of programme rights, move them over the suitcase and click once more, then they will land in the suitcase. That's only a pre-selection though. Although the money is immediately deducted, if you click on the rights again and move them to the bookcase, and click there again, they are placed in the bookcase and the money is back in your account. But if you leave the room with the rights in the suitcase, then the rights package unavoidably ends up in the archive and is automatically available for your programme planning. Should the suitcase be full of programmes, then leave the room, wait a while, re-enter it and you will have enough space to go shopping again. By the way: the gaps opened by your purchases will have been filled by the agent in the meantime.
 
-The second way to acquire films here is by auction. For this, click on the auctioneer's hammer on the agent's desk. This displays a menu with films and their respective minimum bids. Mouse over it to display the information about the film again. Click on it and you have made an offer. The money is immediately deducted from your account. If no other player has bid by midnight, then the film automatically lands in your archive and stands ready for programme planning.
+The second way to acquire programme rights here is by auction. For this, click on the auctioneer's hammer on the agent's desk. This displays a menu with rights and their respective minimum bids. Mouse over it to display the information about the programme rights again. Click on it and you have made an offer. The money is immediately deducted from your account. If no other player has bid by midnight, then the rights automatically land in your archive and stand ready for programme planning.
 
 
 Ad Agency
 ---------
 
-This is the good fellow who keeps the wolf from the door. Now he actually wants to flog us the stuff which ruins the film for the viewers or gives them a chance to get crisps. In a nutshell: here are the commercials which are carefully broadcast each hour and keep the cash rolling in. You can see folders on the table and by the wall and another suitcase in the top right corner. There are usually folders in this case. Those are the previously agreed advertising contracts. The game donates the three there at the start of the game. That the three folders are placed only in the suitcase and not anywhere in the archive should let you know that the spaces in the suitcase are limited. If the suitcase is full, then you can't sign new advertising contracts. You can only free up space once your adverts have finished broadcasting. Or if they pass the time limit, which, however, results in a penalty.
+This is the good fellow who keeps the wolf from the door. Now he actually wants to flog us the stuff which ruins a film for the viewers or gives them a chance to get crisps. In a nutshell: here are the commercials which are carefully broadcast each hour and keep the cash rolling in. You can see folders on the table and by the wall and another suitcase in the top right corner. There are usually folders in this case. Those are the previously agreed advertising contracts. The game donates the three there at the start of the game. That the three folders are placed only in the suitcase and not anywhere in the archive should let you know that the spaces in the suitcase are limited. If the suitcase is full, then you can't sign new advertising contracts. You can only free up space once your adverts have finished broadcasting. Or if they pass the time limit, which, however, results in a penalty.
 
 Move the mouse point over over the folders and you'll see information about the relevant advert. I don't need to explain the payout any further. The penalty is due if you don't broadcast the required commercials in the specified time with the required viewers. The tooltip also shows you how many times the advert has already been scheduled and broadcast.
 
@@ -177,7 +177,7 @@ Since the news possesses its own audience rating calculation, it can be quite in
 
 Station Purchase
 ----------------
-We've now obviously come to one of the strategically most important features. Should I initially use money for station construction or for better films? The menu for station construction can be found by left-clicking on the map on the far right [of your office].
+We've now obviously come to one of the strategically most important features. Should I initially use money for station construction or for better programmes? The menu for station construction can be found by left-clicking on the map on the far right [of your office].
 
 If you then click on "buy station" ********, a transmission mast symbol appears on the mouse pointer, which you can move over the map. In doing so it will display to you how many viewers you can reach at the appropriate location. That will also always indicate how many new viewers you have in the catchment area. That will be important if there are several transmission masts in metropolitans areas, which might perhaps overlap. Each possible viewer obviously only counts once. Not to be forgotten is the information in the lowest line: the expected purchase price.
 
@@ -195,18 +195,18 @@ Here you can buy scripts for your in-house productions. They stand on and next t
 Studio
 ------
 
-Take the chosen script into the Studio. Click on the desired script in the suitcase and move it rightwards onto the little cabinet. The studio supervisor stands on the left. Left-click on him and a dialogue is displayed in which you can claim a Shopping List. These appear below in the centre, after left-clicking on "I need a shopping list..." XXXXX  They then stay hanging there. And off we go to the Supermarket.
+Take the chosen script into the Studio. Click on the desired script in the suitcase and move it rightwards onto the little cabinet. The studio manager stands on the left. Left-click on him and a dialogue is displayed in which you can claim a Shopping List. These appear below in the centre, after left-clicking on "I need a shopping list..." XXXXX  They then stay hanging there. And off we go to the Supermarket.
 
-Returning from the Supermarket, you can release a film with a completed Shopping List into production. Choose the desired film and click on the studio supervisor.
+Returning from the Supermarket, you can release a programme with a completed Shopping List into production. Simply click on the studio manager and choose whether only the first or all of the planned productions should be made.
 
 Supermarket
 -----------
 
-Enter the Supermarket and you will be offered a dialogue which leads to buying a present for Betty or the procedure for film pre-production.
+Enter the Supermarket and you will be offered a dialogue which leads to buying a present for Betty or the procedure for programme pre-production.
 
 Betty Gifts are only interesting to Betty or not at all. Try out for yourself whether your assessment of her character corresponds to the in-game reality. There's nothing more to add here.
 
-So choose film production. On the top left of the next screen are the script titles for which the Shopping Lists have been claimed. Click on the one you want.
+So choose programme production. On the top left of the next screen are the script titles for which the Shopping Lists have been claimed. Click on the one you want.
 
 The various required cast members (director, actor, etc.) now appear in the middle. Click on each one and a list of possible characters is displayed. The blue bars roughly symbolize the appropriate level of experience. This changes with further productions. Move the mouse cursor over the characters and it displays a tooltip for each character with their individual attributes. The attributes in green are specially useful for the present production, those in grey are relatively uninteresting. Choose a character for each required cast member.
 
@@ -252,9 +252,9 @@ We will learn later how you can convince the tenants to give up their rooms.
 'FSK18' and Bailiffs
 --------------------
 
-Films with the label 'FSK18' [the German equivalent of an 18 certificate or TV-MA rating] may not be broadcast between 0600 and 2200 according to the Youth Protection Law of TVTower-land. It rests with you whether you will abide by that. But there's a catch. Or, more accurately, two. The authorities could detect in the Programme Schedule that you intend to flout the law. A fine is subsequently due and the film will be removed from the Programme Schedule. Then you must fill the gap again.
+Programmes with the label 'FSK18' [the German equivalent of an 18 certificate or TV-MA rating] may not be broadcast between 0600 and 2200 according to the Youth Protection Law of TVTower-land. It rests with you whether you will abide by that. But there's a catch. Or, more accurately, two. The authorities could detect in the Programme Schedule that you intend to flout the law. A fine is subsequently due and the programme will be removed from the Programme Schedule. Then you must fill the gap again.
 
-If you have managed to smuggle the film past the censor unnoticed, there is still always a 25% chance that one of the two court bailiffs (Mr Czwink and Mr Czwank) appear after the broadcast. Since they don't know their way around TV-Tower that well, they inform themselves at the information board just like Mr Terrorist. Swap the appropriate Archive nameplate and a film might be confiscated from the competition. If a film has been confiscated, you will receive a notification about it.
+If you have managed to smuggle the programme past the censor unnoticed, there is still always a 25% chance that one of the two court bailiffs (Mr Czwink and Mr Czwank) appear after the broadcast. Since they don't know their way around TV-Tower that well, they inform themselves at the information board just like Mr Terrorist. Swap the appropriate Archive nameplate and rights might be confiscated from the competition. If programme rights have been confiscated, you will receive a notification about it.
 
 
 
@@ -265,7 +265,7 @@ Interface
 
 Das meint hier den unteren Teil des Spielbildschirms, der Euch durch das gesamte Spiel begleiten wird. Links ist der Fernseher, der das laufende Programm der einzelnen Sender anzeigt. Den könnt Ihr ausschalten. Desweiteren könnt Ihr über die farbigen Tasten auswählen, welchem Sender Ihr ins laufende Programm schauen wollt.
 
-Bewegt Ihr den Mauszeiger über den Bildschirm oder die Tasten der anderen Sender, erscheint ein Tooltip mit Informationen zum laufenden Programm. Wenn Ihr die Maushand auf dem Bildschirm platziert, wird angezeigt, welcher Film mit welcher Einschaltquote läuft. Zusätzlich bei Eurem eigenen Sender ein Hinweis, ob ein passender Werbeblock gesetzt ist.
+Bewegt Ihr den Mauszeiger über den Bildschirm oder die Tasten der anderen Sender, erscheint ein Tooltip mit Informationen zum laufenden Programm. Wenn Ihr die Maushand auf dem Bildschirm platziert, wird angezeigt, welches Programme mit welcher Einschaltquote läuft. Zusätzlich bei Eurem eigenen Sender ein Hinweis, ob ein passender Werbeblock gesetzt ist.
 
 Die anderen Anzeigen sind zu Eurer Information gedacht.
 
