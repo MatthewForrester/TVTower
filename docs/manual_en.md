@@ -105,7 +105,7 @@ If you place an advertisement in a schedule slot, then it becomes an infomercial
 
 By contrast, if you set a programme in an advertising slot, then a trailer for the appropriate programme is created. This trailer ensures that more viewers will watch the programme. However, the number of additional viewers depends on how many viewers saw the programme before the trailer. Multiple broadcasts strengthen this effect, though only up to an upper limit. Every further trailer then draws no additional viewership.
 
-If youwant to see or change the schedule for the following, next-but-one or next-but-two day, or even further in the future, then use the the little arrow in the top right. Obviously you can also go back again.
+If you want to see or change the schedule for the following, next-but-one or next-but-two day, or even further in the future, then use the the little arrow in the top right. Obviously you can also go back again.
 
 Available advertisements and programmes can be seen in the respective menu options on the right. There are also more tooltips here when you move the mouse pointer over the programme/advertisement. Left-click to drag the programmes. Left-click to put them down again. "Shift" and left-click retains the programme as long as you have the "Shift"-key pressed. If necessary, a right-click will give you a free hand again.
 
@@ -221,7 +221,7 @@ Ten percent of the total cost is due immediately. Then the rest at completion. T
 Boss-Loans-Begging
 ------------------
 
-The Boss' Room is on the right of the elevator on your floor. He is a boss of the old school, please keep an eye on his exquisitely animated cigar smoke. However, it's much of a muchness.
+The Boss' Room is on the right of the elevator on your floor. He is a boss of the old school, please keep an eye on his exquisitely animated cigar smoke (not that it matters at all).
 
 What there is do, or not do, here will be shown in the speech bubble. Simply click on the one that corresponds to your request, which is currently drawn only from financial choices. Pay back or take out new loans.
 
@@ -236,7 +236,7 @@ Terrorist
 
 He is a nasty piece of work. Not without controversy, he ensures that there are always enough free roooms in the building. Because free rooms are scarce and in the later course of the game needed as larger studios. The first one that you have is only size one.
 
-The terrorist is actually a henchman of both Dubanian embassies, who are in perpetual conflict with one another. THe other side is the real target. The terrorist threat is announced with a notification later in the course of events.
+The terrorist is actually a henchman of both Dubanian embassies, who are in perpetual conflict with one another. The other side is the real target. The terrorist threat is announced with a notification later in the course of events.
 
 Shortly afterwards, the terrorist enters the building and goes to the information board. That is where you have the chance to participate. Because you can mix up the nameplates on the information board. Hang the nameplate of the embassy of the country which is mentioned in the news as the target for a possible attack on a random place and the terrorist will direct his steps there. If you would like to see what happens, simply follow along.
 
