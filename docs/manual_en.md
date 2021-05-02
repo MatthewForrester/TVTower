@@ -256,25 +256,23 @@ Programmes with the label 'FSK18' [the German equivalent of an 18 certificate or
 
 If you have managed to smuggle the programme past the censor unnoticed, there is still always a 25% chance that one of the two court bailiffs (Mr Czwink and Mr Czwank) appear after the broadcast. Since they don't know their way around TV-Tower that well, they inform themselves at the information board just like Mr Terrorist. Swap the appropriate Archive nameplate and rights might be confiscated from the competition. If programme rights have been confiscated, you will receive a notification about it.
 
-
-
-Wie im wirklichen Leben verringern die FSK18-Ausstrahlungen zur falschen Zeit das Image. Derzeit um 0.5 Prozentpunkte.
+Like real life, FSK18 broadcasts at the wrong time damage your image. Currently by 0.5 percentage points.
 
 Interface
 =========
 
-Das meint hier den unteren Teil des Spielbildschirms, der Euch durch das gesamte Spiel begleiten wird. Links ist der Fernseher, der das laufende Programm der einzelnen Sender anzeigt. Den könnt Ihr ausschalten. Desweiteren könnt Ihr über die farbigen Tasten auswählen, welchem Sender Ihr ins laufende Programm schauen wollt.
+Here that means the lower part of the game screen, which keeps you company during the whole game. On the left is the television, which displays the current programme of each station. You can turn it off. You can also  choose which station's schedule you want to watch with the coloured buttons.
 
-Bewegt Ihr den Mauszeiger über den Bildschirm oder die Tasten der anderen Sender, erscheint ein Tooltip mit Informationen zum laufenden Programm. Wenn Ihr die Maushand auf dem Bildschirm platziert, wird angezeigt, welches Programme mit welcher Einschaltquote läuft. Zusätzlich bei Eurem eigenen Sender ein Hinweis, ob ein passender Werbeblock gesetzt ist.
+Moving the mouse pointer over the [TV set] screen or the buttons of the other stations, a tooltip appears with information about the current programme. If you place the mouse cursor on the screen, it show which programme is airing along with its audience rating. In addition, your own station will hint whether a suitable commercial break is set.
 
-Die anderen Anzeigen sind zu Eurer Information gedacht.
+The other displays are for your information.
 
-Der rechte Bildschirm zeigt die jeweiligen Zielgruppen, die vom Programm bevorzugt erreicht werden. Die Anzeigen in der Mitte sind ja dank der Tooltips selbsterklärend.
+The right screen shows each of the target groups that will be particularly reached by the programme. The displays in the middle are self-explanatory thanks to the tooltips.
 
-Chat und Cheaten
-================
+Chat and Cheating
+=================
 
-Der InGame-Chat wird mit der ?�Enter??-Taste aufgerufen. Der Chat kann in der Entwicklerversion verschiedene Kommandos entgegennehmen. Der Befehl ??/dev help?? listet die verfuegbaren Befehle auf. So würde zum Beispiel ein ??/dev money 1 1000?? dem ersten Spieler 1000 Euro aufs Konto gutschreiben.
+The in-game-chat is called up with the "Enter" key. In the developer version, the chat can accept various commands. The command "/dev help" lists the applicable comands. For example, "/dev money 1 1000" will credit 1000 Euros to the account of the first player. XXXXXXXXXXX-test
 
 Abläufe im Hintergrund
 ======================
