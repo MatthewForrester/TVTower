@@ -274,76 +274,76 @@ Chat and Cheating
 
 The in-game-chat is called up with the "Enter" key. In the developer version, the chat can accept various commands. The command "/dev help" lists the applicable comands. For example, "/dev money 1 1000" will credit 1000 Euros to the account of the first player. XXXXXXXXXXX-test
 
-Abläufe im Hintergrund
-======================
+Processes in the Background
+===========================
 
-Zu den Abläufen im Hintergrund gehört zum Beispiel die Einschaltquotenberechnung. Hier soll im Moment noch nicht viel erklärt werden. So ist es sicher leichter, daß Ihr auf Ungereimtheiten aufmerksam werdet und sie uns gegebenenfalls mitteilt. Da die meisten, die uns in den Weiten des Netzes finden, erfahrene Spieler und Spielerinnen sein dürften, ist die Intuition ein nicht zu unterschätzender Faktor zur Verbesserung des Spiels.
+An example of the processes in the background is the audience rating calculation. At the moment not much explanation is possible here. So it is easier for you if you pay attention to inconsistencies and where possible report them to us. Since most of the those who find us in the vastness of the Net are probably experienced players, intuition is a factor that should not be underestimated in improving the game.
 
-Und wir wollen die Ungereimtheiten nicht durch schlaue Wichtigkeiten schon im Vorhinein wegreden.
+And we won't explain away the inconsistencies in advance with big words.
 
-Veränderungen durch den Spieler
-===============================
+Changes made by the Players
+===========================
 
-Im Spieleverzeichnis liegt ein config-Ordner. In diesem wiederum gibt es eine Datei ?�settings.xml??. Diese enthält eine Menge Sachen, die per Editor verändert werden können. Wenn Ihr in den ?�Einstellungen?? etwas verändert, was von den Vorgaben abweicht, wird eine ?�settings.user.xml?? angelegt - in dieser können auch händische Abaenderungen stattfinden, die vormals in der ?�settings.xml?? zu hinterlegen waren.
+There is a config folder in the game directory . In of this folder there is a "settings.xml" file. This contains a great many things which can be changed in an editor. If you change something in the "Settings" from the defaults, a "settings.user.xml" is created - manual modifications (which were formerly placed in the "settings.xml") can also be made in this file.
 
-Kurz: die settings.user.xml enthält die  Abweichungen zu den vorgesehenen Einstellungen aus settings.xml
+In summary: the settings.user.xml contains variations from the intended settings in settings.xml.
 
-Tastenkürzel für die Entwicklerversion
-======================================
+Keyboard Shortcuts for the Developer Version
+============================================
 
 
-Spielgeschwindigkeit
---------------------
-* Cursor Hoch/Runter : Spielgeschwindigkeit +/-
-* Cursor Links/Rechts : Laufgeschwindigkeit und Spielgeschwindigkeit +/-
-* Strg Links + Cursor Rechts: Schnellvorlauf Stufe 1
-* Strg Rechts + Cursor Rechts: Schnellvorlauf Stufe 2
-* 5 : Spielgeschwindigkeit 60 Spielminuten/s
-* 6 : Spielgeschwindigkeit 120 Spielminuten/s
-* 7 : Spielgeschwindigkeit 180 Spielminuten/s
-* 8 : Spielgeschwindigkeit 240 Spielminuten/s
-* 9 : Spielgeschwindigkeit 1 Spielminute/s (Standard)
+Game Speed  XXXXXXXXXXXXXX check all
+----------
+* Up/down arrow keys : Game speed +/-
+* Left/right arrow keys : Running speed and game speed +/-
+* Left-Ctrl + right arrow key : Fast forward level 1
+* Right-Ctrl + right arrow key: Fast forward level 2
+* 5 : Speed 60 game minutes/s
+* 6 : Speed 120 game minutes/s
+* 7 : Speed 180 game minutes/s
+* 8 : Speed 240 game minutes/s
+* 9 : Speed 1 game minute/s (standard)
 
-Raeume
-------
-* W: Werbemakler
-* A: Archiv
+Rooms
+-----
+[The German names are given where these explain the shortcut]
+* W: Ad Agency [Werbemakler]
+* A: Archive
 * B: Betty
-* F: Filmagentur
-* O: Buero/Office
-* C: Chef
-* N: Nachrichtenstudio
-* R: Raumvermietung / Makler
-* Strg + R: Roomboard / Raumplan
-* L: Supermark / Laden
-* S: Studio (erstes gefundenes)
-* Strg Links + S: Supermarkt
-* Strg Rechts + S: Drehbuchagentur (Scripts)
+* F: Movie Agency [Filmagentur]
+* O: Office
+* C: Boss [Chef]
+* N: News Studio
+* R: Estate Agent XXX [Raumvermietung]
+* Ctrl + R: Room Plan
+* L: Supermarket [Laden]
+* S: Studio (the first one found)
+* Left-Ctrl + S: Supermarket
+* Right-Ctrl + S: Script Agency
 * E: Credits (employees :-))
 
-Laden/Speichern
----------------
-* F5: Spielstand speichern (Quicksave)
-* F8: Spielstand laden (Quickload)
+Loading/saving
+--------------
+* F5: Save game state (Quicksave)
+* F8: Load game state (Quickload)
 
-Sonstiges
----------
-* 1-4: Spieler wechseln (mit Observermodus nur Spieler beobachten)
-* Strg Links + O: Observermodus an/aus
-* G: Geister-Modus (frei mit Maus durch Hochhaus scrollen) an/aus
+Special
+-------
+* 1-4: Change player (with Observer Mode players are only observed)
+* Left-Ctrl + O: Observer Mode on/off
+* G: Ghost Mode (scroll freely through the building with the mouse) on/off
 
-* TAB: Dev-/Debugpanel ein-/ausblenden
-* Strg Links + TAB: Raumspezifische-Debug-Ansicht an/aus
-* Q: Quoten-Debugbildschirm an/aus
-* K: ALLE Figuren werden aus den Raeumen gekickt
-* T: Terroristen losschicken
+* TAB: Dev-/debug panel show/hide
+* Left-Ctrl + TAB: Room-specific debug insights on/off
+* Q: Audience share debug screen on/off
+* K: All characters will be kicked out of the rooms
+* T: Throw out the Terrorists
 
-* F1: Spielanleitung oder wenn verfügbar Raum-/Bildschirmspezifischen
-Hilfe anzeigen
-* F6: Musik spielen
-* F10: Alle Fremdfiguren de-/aktivieren (Bewegungen)
-* F11: KI an/aus
+* F1: Game manual or if appropriate displays room/screen-specific help
+* F6: Play music
+* F10: (De)activate all outside characters (movements)
+* F11: AI on/off
 
-* M: Musik/Soundausgabe an/aus
-* Shift+M: Soundeffekte an/aus
-* Strg+M: Musik an/aus
+* M: Music/sound output on/off
+* Shift+M: Sound effects on/off
+* Ctrl+M: Music on/off
