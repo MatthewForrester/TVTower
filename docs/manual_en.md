@@ -22,26 +22,26 @@ Contents
 ========
 
 * Loading and Saving
-* Spielgeschwindigkeit
-* Bewegung der Spielfigur
-* Funktionsfähige Features:
-    * Programme Planning
+* Game Speed
+* Movement of In-Game Characters
+* Functionality and Features:
+    * Programme Schedule
     * Archive
     * Movie Agency
-    * Werbemakler
+    * Ad Agency
     * News Studio
-    * Senderkauf
-    * Drehbuchagentur
+    * Station Purchase
+    * Script Agency
     * Studio
     * Supermarket
-    * Chef-Kredit-Bettelei
+    * Boss-Loans-Begging
     * Terrorist
-    * Immobilien-Makler
-    * FSK 18 und Gerichtsvollzieher
+    * Estate Agent XXXXX
+    * FSK 18 and Bailiffs
 * Interface
-* Chat und Cheaten
-* Abläufe im Hintergrund
-* Veränderungen durch den Spieler
+* Chat and Cheats
+* Processes in the Background
+* Changes Made by the Players
 * Keyboard Shortcuts for the Developer Version
 
 Loading and Saving
@@ -322,7 +322,7 @@ Rooms
 * Right-Ctrl + S: Script Agency
 * E: Credits (employees :-))
 
-Loading/saving
+Loading/Saving
 --------------
 * F5: Save game state (Quicksave)
 * F8: Load game state (Quickload)
