@@ -36,7 +36,7 @@ Contents
     * Supermarket
     * Boss-Loans-Begging
     * Terrorist
-    * Estate Agent XXXXX
+    * Room Agency
     * FSK 18 and Bailiffs
 * Interface
 * Chat and Cheats
@@ -179,11 +179,11 @@ Station Purchase
 ----------------
 We've now obviously come to one of the strategically most important features. Should I initially use money for station construction or for better programmes? The menu for station construction can be found by left-clicking on the map on the far right [of your office].
 
-If you then click on "buy station" ********, a transmission mast symbol appears on the mouse pointer, which you can move over the map. In doing so it will display to you how many viewers you can reach at the appropriate location. That will also always indicate how many new viewers you have in the catchment area. That will be important if there are several transmission masts in metropolitans areas, which might perhaps overlap. Each possible viewer obviously only counts once. Not to be forgotten is the information in the lowest line: the expected purchase price.
+If you then click on "New Station", a transmission mast symbol appears on the mouse pointer, which you can move over the map. In doing so it will display to you how many viewers you can reach at the appropriate location. That will also always indicate how many new viewers you have in the catchment area. That will be important if there are several transmission masts in metropolitans areas, which might perhaps overlap. Each possible viewer obviously only counts once. Not to be forgotten is the information in the lowest line: the expected purchase price.
 
-When you have found a suitable place for the mast, fix it by left-clicking and confirm with the "buy station" ******** button. If you like the look of somewhere else after placing, then you can remove the transmission mast again by right-clicking. If you have already clicked on the "buy" ***** button it's obviously too late for that. You can now sell the transmission mast again. To do this, select it in the list on the right. And then onto the "sell station" ***** button. You get less money back from the tightwads than it cost you.
+When you have found a suitable place for the mast, fix it by left-clicking and confirm with the "Buy Station" button. If you like the look of somewhere else after placing, then you can remove the transmission mast again by right-clicking. If you have already clicked on the "Buy" button it's obviously too late for that. You can now sell the transmission mast again. To do this, select it in the list on the right. And then onto the "Sell Station" button. You get less money back from the tightwads than it cost you.
 
-The menu items "cable networks" and "satellite links" **** at the bottom supply the possibility of access to available cable networks and satellites. While the available satellites will be listed, the available cable networks will be shown by moving over the map. If you meet the specified conditions, you can rent the connections. Be aware that for each one there is a one-year contractual term. The coverage of cable and satellite is based on the real data. Therefore only partial coverage of the areas is to be expected. However, this rises in the course of the game.
+The menu items "Cable Network Uplinks" and "Satellite Uplinks" at the bottom supply the possibility of access to available cable networks and satellites. While the available satellites will be listed, the available cable networks will be shown by moving over the map. If you meet the specified conditions, you can rent the connections. Be aware that for each one there is a one-year contractual term. The coverage of cable and satellite is based on the real data. Therefore only partial coverage of the areas is to be expected. However, this rises in the course of the game.
 
 For all three types of transmission, the range is extended at the top of the next hour.
 
@@ -195,7 +195,7 @@ Here you can buy scripts for your in-house productions. They stand on and next t
 Studio
 ------
 
-Take the chosen script into the Studio. Click on the desired script in the suitcase and move it rightwards onto the little cabinet. The studio manager stands on the left. Left-click on him and a dialogue is displayed in which you can claim a Shopping List. These appear below in the centre, after left-clicking on "I need a shopping list..." XXXXX  They then stay hanging there. And off we go to the Supermarket.
+Take the chosen script into the Studio. Click on the desired script in the suitcase and move it rightwards onto the little cabinet. The studio manager stands on the left. Left-click on him and a dialogue is displayed in which you can claim a Shopping List. These appear below in the centre, after left-clicking on "I need a shopping list for this script." They then stay hanging there. And off we go to the Supermarket.
 
 Returning from the Supermarket, you can release a programme with a completed Shopping List into production. Simply click on the studio manager and choose whether only the first or all of the planned productions should be made.
 
@@ -212,7 +212,7 @@ The various required cast members (director, actor, etc.) now appear in the midd
 
 If you should want to undo your choice, it's possible by right-clicking on the appropriate character.
 
-Next a production company has to be selected in the part of the screen on the right. There are three XXXXXXXXXX levels. Each level has its price and brings with it a certain number of Production Points. The former must be paid, the latter can be assigned to the main production areas. Or alternatively to the speed of production.
+Next a production company has to be selected in the part of the screen on the right. There are three levels. Each level has its price and brings with it a certain number of Production Points. The former must be paid, the latter can be assigned to the main production areas. Or alternatively to the speed of production.
 
 The main areas of production are each weighted differently according to their genres. Obviously an action film needs stunts rather more than a romance. But that should not be divulged in detail. When all the points have been allocated, planning can be completed on the left below the total cost and the production time.
 
@@ -242,8 +242,8 @@ Shortly afterwards, the terrorist enters the building and goes to the informatio
 
 By the way, the AI can also place the appropriate embasssy nameplate on your offices or studios.
 
-Estate Agent XXXXXXXXXX
-------------
+Room Agency
+-----------
 
 This pleasant chap enables you to rent newer and eventually bigger studios. Left-click on the pinboard and it displays the occupied rooms in the building. The potential rentable ones are highlighted somewhat. A tooltip contains the present tenant of each one and the studio size. The latter still has no influence on your in-house productions at the moment.
 
@@ -272,7 +272,7 @@ The right screen shows each of the target groups that will be particularly reach
 Chat and Cheating
 =================
 
-The in-game-chat is called up with the "Enter" key. In the developer version, the chat can accept various commands. The command "/dev help" lists the applicable comands. For example, "/dev money 1 1000" will credit 1000 Euros to the account of the first player. XXXXXXXXXXX-test
+The in-game-chat is called up with the "Enter" key. In the developer version, the chat can accept various commands. The command "/dev help" lists the applicable comands. For example, "/dev money 1 1000" will credit 1000 Euros to the account of the first player.
 
 Processes in the Background
 ===========================
@@ -292,7 +292,7 @@ Keyboard Shortcuts for the Developer Version
 ============================================
 
 
-Game Speed  XXXXXXXXXXXXXX check all
+Game Speed
 ----------
 * Up/down arrow keys : Game speed +/-
 * Left/right arrow keys : Running speed and game speed +/-
@@ -314,7 +314,7 @@ Rooms
 * O: Office
 * C: Boss [Chef]
 * N: News Studio
-* R: Estate Agent XXX [Raumvermietung]
+* R: Room Agency
 * Ctrl + R: Room Plan
 * L: Supermarket [Laden]
 * S: Studio (the first one found)
@@ -340,7 +340,7 @@ Special
 * T: Throw out the Terrorists
 
 * F1: Game manual or if appropriate displays room/screen-specific help
-* F6: Play music
+* F6: Play music [or new track]
 * F10: (De)activate all outside characters (movements)
 * F11: AI on/off
 
