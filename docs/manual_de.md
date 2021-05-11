@@ -313,7 +313,7 @@ Raeume
 * N: Nachrichtenstudio
 * R: Raumvermietung / Makler
 * Strg + R: Roomboard / Raumplan
-* L: Supermark / Laden
+* L: Supermark / Laden [Dieses Tastenkürzel steht in der Entwicklerversion nicht zur Verfügung.]
 * S: Studio (erstes gefundenes)
 * Strg Links + S: Supermarkt
 * Strg Rechts + S: Drehbuchagentur (Scripts)

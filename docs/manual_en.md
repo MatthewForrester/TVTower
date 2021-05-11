@@ -316,7 +316,7 @@ Rooms
 * N: News Studio
 * R: Room Agency
 * Ctrl + R: Room Plan
-* L: Supermarket [Laden]
+* L: Supermarket [Laden. This shortcut is not available in the Developer Version.]
 * S: Studio (the first one found)
 * Left-Ctrl + S: Supermarket
 * Right-Ctrl + S: Script Agency
